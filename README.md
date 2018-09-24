@@ -1,6 +1,10 @@
 ## Webpack task
 
 ### Install dependencies
-`npm i`
+```
+npm i
+```
 ### To start
-`npm start`
+```
+npm start
+```
